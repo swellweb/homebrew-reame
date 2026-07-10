@@ -3,7 +3,7 @@ class Sovrano < Formula
   homepage "https://github.com/swellweb/sovrano"
   url "https://github.com/swellweb/sovrano.git",
       tag:      "v0.1.0",
-      revision: :any
+      revision: "965c3f228b8b7ee866fa446d60abfdc2fb93a9aa"
   license "MIT"
   head "https://github.com/swellweb/sovrano.git", branch: "main"
 
