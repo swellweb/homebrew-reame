@@ -1,8 +1,8 @@
-# homebrew-sovranx
+# homebrew-reame
 
-Homebrew tap for [SovranX](https://github.com/swellweb/sovranx).
+Homebrew tap for [Reame](https://github.com/swellweb/reame).
 
 ```bash
-brew tap swellweb/sovranx
-brew install sovranx
+brew tap swellweb/reame
+brew install reame
 ```
