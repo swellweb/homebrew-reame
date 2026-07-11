@@ -1,9 +1,8 @@
-# Homebrew tap for Sovrano
+# homebrew-sovranx
+
+Homebrew tap for [SovranX](https://github.com/swellweb/sovranx).
 
 ```bash
-brew tap swellweb/sovrano
-brew install sovrano
+brew tap swellweb/sovranx
+brew install sovranx
 ```
-
-Sovrano: a CPU inference server that gets faster the longer it runs.
-https://github.com/swellweb/sovrano
